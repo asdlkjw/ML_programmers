@@ -1,0 +1,1 @@
+classes = ['dog', 'elephant', 'giraffe','guitar','horse','house','person']
